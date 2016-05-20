@@ -16,11 +16,13 @@
   padding-top: 2px;/*px*/
 }
 
+html {
+  background: #f20d00;
+}
+
 .container {
 	width: 750px;
-  height: 100%;
   margin: 0 auto;
-  background: #f20d00;
   font-size: 32px;/*px*/
 }
 
